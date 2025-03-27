@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
-import { Moon, Sun, Code2, Rocket, Sparkles, Github, ExternalLink, ArrowDown } from 'lucide-react';
+import { Moon, Sun, Rocket, Sparkles, Github, ExternalLink, ArrowDown } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useTheme } from '@/components/theme-provider';
